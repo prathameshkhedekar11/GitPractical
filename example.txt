@@ -1,1 +1,5 @@
 Hello, this is my first Git practical.
+
+Git is useful for collabarative software devlopment.
+
+This change is made in the feature branch.
